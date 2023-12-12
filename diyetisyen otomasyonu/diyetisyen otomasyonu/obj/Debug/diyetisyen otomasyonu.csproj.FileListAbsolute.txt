@@ -1,0 +1,11 @@
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\bin\Debug\diyetisyen otomasyonu.exe.config
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\bin\Debug\diyetisyen otomasyonu.exe
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\bin\Debug\diyetisyen otomasyonu.pdb
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen_otomasyonu.Form1.resources
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen_otomasyonu.Form2.resources
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen_otomasyonu.Properties.Resources.resources
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen otomasyonu.csproj.GenerateResource.cache
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen otomasyonu.exe
+C:\Users\hakor\OneDrive\Belgeler\GitHub\diyetisyen_otomasyonu_projesi\diyetisyen otomasyonu\diyetisyen otomasyonu\obj\Debug\diyetisyen otomasyonu.pdb
